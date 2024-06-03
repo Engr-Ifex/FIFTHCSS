@@ -137,10 +137,13 @@ span{
 }
 .image img{
     padding: 10px;
+    transition: 1s;
 }
-/* .image img:hover{
-    width: 400px;
-} */
+.image img:hover{
+    transform: scale(1.2);
+    z-index: 2;
+    cursor: pointer;
+}
 
 .fifthpg{
     display: flex;
