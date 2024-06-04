@@ -192,13 +192,14 @@ button:hover{
     display: grid;
     justify-content: center;
     text-align: center;
-    padding-top: 50px;
+    padding: 50px 10px 0px 10px;
 }
 .footer a{
     color: rgb(1, 41, 21);
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-top: 50px;
+    
 }
 .f1{    
     display: flex;
